@@ -36,6 +36,7 @@ void main()// 对于输入的任意一个非负十进制整数，打印输出与
 	seqstack *s;
 	datatype n,e; //n为输入，e为输出
 	int i=0,j=0;
+	printf("输入一个十进制数：\n");
 	scanf("%u",&n);  // 输入非负十进制整数n 
 	s=(struct seqstack*)malloc(sizeof(int));
 	InitStack(s); // 初始化栈
