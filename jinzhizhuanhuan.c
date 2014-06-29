@@ -1,3 +1,4 @@
+//此程序用堆栈实现了十进制转换为二进制算法
 #include<stdio.h>
 #include<stdlib.h>
 #include<malloc.h> 
