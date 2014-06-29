@@ -33,6 +33,7 @@ datatype pop(seqstack *s)//元素出栈函数
 } 
 void main()// 对于输入的任意一个非负十进制整数，打印输出与其等值的二进制数
 {                 
+	//test
 	seqstack *s;
 	datatype n,e; //n为输入，e为输出
 	int i=0,j=0;
